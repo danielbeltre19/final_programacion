@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa1\bin\Debug\capa1.dll
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa1\bin\Debug\capa1.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa1\obj\Debug\capa1.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa1\obj\Debug\capa1.dll
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa1\obj\Debug\capa1.pdb

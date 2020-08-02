@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\bin\Debug\capa3.dll
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\bin\Debug\capa3.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\bin\Debug\capa1.dll
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\bin\Debug\capa2.dll
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\bin\Debug\capa1.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\bin\Debug\capa2.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\obj\Debug\capa3.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\obj\Debug\capa3.dll
+c:\users\daniel\documents\visual studio 2012\Projects\final\capa3\obj\Debug\capa3.pdb
